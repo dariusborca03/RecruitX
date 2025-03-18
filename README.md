@@ -8,8 +8,12 @@ Tutorial Github cum sa dati pull la main branch:
 
 1. Va creati un folder unde plm vreti voi
 2. Deschideti terminalul in folder si scrieti asta: git clone https://github.com/dariusborca03/RecruitX.git
-3. git pull origin main
-4. Apoi asta: cd RecruitX (Asta va descarca codul pe PC)
+3. Apoi asta: cd RecruitX
+4. apoi asta: npm install 
+5. apoi: npm start
+6. apoi iti creezi branchu: git checkout -b numele-tau
+7. ca sa verifici pe ce branch esti: git branch (iti apare cu *numele-tau)
+8. apoi: git push origin numele-tau (ca sa dai push pe branchu tau)
 
 Bun acum cum sa va creati propiul branch ca sa nu futeti totul pe main si sa lucram mai bn:
 
