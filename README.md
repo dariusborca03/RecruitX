@@ -5,7 +5,7 @@ RecruitX website Project
 Tutorial Github cum sa dati pull la main branch:
 
 1. Va creati un folder unde plm vreti voi
-2. Deschideti terminalul si scrieti asta: git clone https://github.com/dariusborca03/RecruitX.git
+2. Deschideti terminalul in folder si scrieti asta: git clone https://github.com/dariusborca03/RecruitX.git
 3. Apoi asta: cd RecruitX (Asta va descarca codul pe PC)
 
 Bun acum cum sa va creati propiul branch ca sa nu futeti totul pe main si sa lucram mai bn:
