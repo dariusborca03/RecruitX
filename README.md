@@ -15,6 +15,7 @@ Bun acum cum sa va creati propiul branch ca sa nu futeti totul pe main si sa luc
 1. Pentru a evita conflictele, fiecare coleg ar trebui să creeze un branch separat pentru fiecare feature nou:
    git checkout -b numele-tau (acolo bagi numele tau prostule)
 2. Dupa ce ati lucrat si ati adaugat chestii noi in proiect trb sa da-ti push pe git:
+
    git add .
    
    git commit -m "Am adăugat feature X"
@@ -25,8 +26,11 @@ Bun acum sa zicem ca eu am incarcat ceva pe GitHub si vrei sa dai pull la ce am 
 
 1. git checkout numele-branchului-meu (intri pe branch-ul meu)
 2. git pull origin numele-branchului-meu (iei modificarile aduse de mn pe proiect)
-3. git add .
+3.
+   git add .
+  
    git commit -m "Modificări aduse feature-nou"
+  
    git push origin numele-tau (SA NU DAI PUSH PE BRENCH-UL MEU PIZDA)
 
 Fiecare coleg lucrează pe un branch propriu (ex: numele-tau).
