@@ -13,7 +13,10 @@ Tutorial Github cum sa dati pull la main branch:
 5. apoi: npm start
 6. apoi iti creezi branchu: git checkout -b numele-tau
 7. ca sa verifici pe ce branch esti: git branch (iti apare cu *numele-tau)
-8. apoi: git push origin numele-tau (ca sa dai push pe branchu tau)
+8. git checkout main (ca sa intri pe main)
+9. git pull origin main (ca sa dai pull de pe main)
+10. git checkout numele-tau (ca sa intri pe branchu tau)
+11. git push origin numele-tau (ca sa dai push pe branchu tau)
 
 Bun acum cum sa va creati propiul branch ca sa nu futeti totul pe main si sa lucram mai bn:
 
