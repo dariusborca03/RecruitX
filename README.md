@@ -16,7 +16,9 @@ Bun acum cum sa va creati propiul branch ca sa nu futeti totul pe main si sa luc
    git checkout -b numele-tau (acolo bagi numele tau prostule)
 2. Dupa ce ati lucrat si ati adaugat chestii noi in proiect trb sa da-ti push pe git:
    git add .
+   
    git commit -m "Am adăugat feature X"
+   
    git push origin numele-tau
 
 Bun acum sa zicem ca eu am incarcat ceva pe GitHub si vrei sa dai pull la ce am eu in repository:
