@@ -1,16 +1,11 @@
-import Header from './Header.jsx'
-import Footer from './Footer.jsx'
-import Food from './Food.jsx'
+import WelcomePage from './Welcome-page';
+
 function App() {
-
-    return(
-      <>
-        <Header/>
-        <Food/>
-        <Footer/>
-      </>
-    );
-
+  return (
+    <div className="App">
+      <WelcomePage />
+    </div>
+  );
 }
 
-export default App
+export default App;
