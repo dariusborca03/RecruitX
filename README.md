@@ -2,6 +2,8 @@
 
 RecruitX website Project
 
+Tutorial React: https://www.youtube.com/watch?v=hn80mWvP-9g&list=PLZPZq0r_RZOMQArzyI32mVndGBZ3D99XQ
+
 Tutorial Github cum sa dati pull la main branch:
 
 1. Va creati un folder unde plm vreti voi
